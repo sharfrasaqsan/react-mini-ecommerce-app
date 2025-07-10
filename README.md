@@ -71,4 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Run JSON Server
 
-Run 'npx json-server -3500 -w data/db.josn" to run the JSON server on locally.
+### `npx json-server -3500 -w data/db.josn`
+
+Run the command to start the JSON server on locally.
