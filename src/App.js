@@ -9,8 +9,15 @@ import NotFound from "./pages/NotFound";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import { useEffect, useState } from "react";
 
 function App() {
+  const [products, setProducts] = useState([]);
+
+  useEffect(() => {
+    const res = 
+  }, []);
+
   return (
     <div className="App">
       <Header />
