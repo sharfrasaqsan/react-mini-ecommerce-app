@@ -1,0 +1,17 @@
+.header {
+  background: linear-gradient(to right, #0f172a, #1e3a8a);
+  color: #fff;
+  text-align: center;
+  padding: 1.5rem 1rem;
+}
+
+.logo {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.tagline {
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  opacity: 0.85;
+}
