@@ -11,7 +11,7 @@
       "rating": 4.5,
       "tags": ["tag1", "tag2"],
       "price": 10.99,
-      "image": "https://via.placeholder.com/150"
+      "image": "/images/test.jpg"
     },
     {
       "id": "2",
@@ -24,7 +24,7 @@
       "rating": 3.8,
       "tags": ["tag3", "tag4"],
       "price": 19.99,
-      "image": "https://via.placeholder.com/150"
+      "image": "/images/test.jpg"
     },
     {
       "id": "3",
@@ -37,7 +37,7 @@
       "rating": 4.0,
       "tags": ["tag1", "tag5"],
       "price": 15.49,
-      "image": "https://via.placeholder.com/150"
+      "image": "/images/test.jpg"
     }
   ]
 }

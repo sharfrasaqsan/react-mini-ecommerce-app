@@ -1,9 +1,10 @@
-import React from 'react'
+import "../styles/Header.css";
 
-const Header = () => {
-  return (
-    <div>Header</div>
-  )
-}
+const Header = () => (
+  <header className="header">
+    <div className="logo">Mini e-commerce app</div>
+    <p className="tagline">Find Your Favorite Products</p>
+  </header>
+);
 
-export default Header
+export default Header;
