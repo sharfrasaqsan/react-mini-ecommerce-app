@@ -15,6 +15,7 @@ const ProductCard = ({ product }) => {
 
         <p>Price: ${product.price}</p>
         <p>Rating: {product.rating}</p>
+        <button>Add to Card</button>
       </>
     </div>
   );
