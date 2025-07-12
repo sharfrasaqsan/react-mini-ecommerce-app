@@ -2,42 +2,21 @@
   "products": [
     {
       "id": "1",
-      "name": "Product 1",
+      "name": "IPhone 14 ",
       "date": "2022-01-01",
-      "description": "Description for Product 1",
-      "available": true,
-      "instock": 100,
-      "category": "Category A",
+      "brand": "Apple",
+      "price": 999.99,
       "rating": 4.5,
-      "tags": ["tag1", "tag2"],
-      "price": 10.99,
-      "image": "/images/test.jpg"
-    },
-    {
-      "id": "2",
-      "name": "Product 2",
-      "date": "2022-02-01",
-      "description": "Description for Product 2",
-      "available": false,
-      "instock": 50,
-      "category": "Category B",
-      "rating": 3.8,
-      "tags": ["tag3", "tag4"],
-      "price": 19.99,
-      "image": "/images/test.jpg"
-    },
-    {
-      "id": "3",
-      "name": "Product 3",
-      "date": "2022-03-01",
-      "description": "Description for Product 3",
+      "storage": "128GB",
+      "ram": "6GB",
+      "camera": "12MP + 48MP",
+      "battery": "3279mAh",
       "available": true,
-      "instock": 0,
-      "category": "Category A",
-      "rating": 4.0,
-      "tags": ["tag1", "tag5"],
-      "price": 15.49,
-      "image": "/images/test.jpg"
+      "instock": 50,
+      "category": "Smartphones",
+      "description": "The latest iPhone with advanced features and stunning design.",
+      "image": "/images/test.jpg",
+      "tags": ["smartphone", "apple", "iphone"]
     }
   ]
 }
