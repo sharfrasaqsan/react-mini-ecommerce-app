@@ -37,7 +37,6 @@ function App() {
 
   return (
     <div className="app-container">
-      <Header />
       <Navbar />
 
       <main className="main-content">

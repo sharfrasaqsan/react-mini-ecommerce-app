@@ -24,22 +24,7 @@
 
 .product-card p {
   margin: 0.3rem 0;
-  color: #475569;
-}
-
-.product-card button {
-  margin-top: 0.75rem;
-  padding: 0.5rem 1rem;
-  background-color: #1d4ed8;
-  color: #fff;
-  border: none;
-  border-radius: 6px;
-  cursor: pointer;
-  transition: background 0.3s ease;
-}
-
-.product-card button:hover {
-  background-color: #2563eb;
+  /* color: #475569; */
 }
 
 .product-card:hover {
